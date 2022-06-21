@@ -2,5 +2,5 @@ torchvision==0.3.0
 torch==1.1.0
 opencv_contrib_python==3.4.3.18
 albumentations==0.1.12
-numpy==1.16.5
+numpy==1.22.0
 Pillow==6.2.0
